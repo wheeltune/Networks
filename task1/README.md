@@ -10,6 +10,6 @@ CSMA/CD в системе Ethernet
 cd Networks/task1
 mkdir tmp
 cd tmp
-cmake ../..
+cmake ..
 ./task1 20
 ```
